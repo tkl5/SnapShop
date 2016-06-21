@@ -49,7 +49,7 @@ public class SnapShopGUI extends JFrame {
     private static final int COL = 1;
     
     /** The number of rows for the last three buttons Grid Layout. 
-     * Columns are the same as the Filter Buttons. */
+        Columns are the same as the Filter Buttons. */
     private static final int OTHER_BUTTON_ROW = 3;
 
     /** JButton object for the Open button.  */
