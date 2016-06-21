@@ -24,7 +24,7 @@ public final class SnapShopMain {
     }
 
     /**
-     * The main method, invokes the SnapShop GUI. Command line arguments are
+     * The main method. Command line arguments are
      * ignored.
      * 
      * @param theArgs Command line arguments.
