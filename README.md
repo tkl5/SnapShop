@@ -1,5 +1,6 @@
 # SnapShop
 
+TCSS 305: Programming Practicum, Spring 2016
 
 # Assignment Overview:
 Our task was to create the front end graphical user interface for an application that displays and changes the look of an image. The assignment will mainly test our understanding of Swing components in Java. Using a combination of border, grid, and flow layout managers the task will be to have the buttons align vertically and for each button to have a function.  
